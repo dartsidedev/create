@@ -1,0 +1,10 @@
+name: create
+description: Create and share templates easily for Flutter and Dart. Work In Progress. flutter create and stagehand alternative.
+version: 0.1.1
+author: Vince Varga <vince.varga@serial.dev>
+homepage: https://github.com/dartsidedev/create
+issue_tracker: https://github.com/dartsidedev/create/issues
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+dev_dependencies:
+  test: ^1.6.5
